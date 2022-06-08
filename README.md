@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **expanding and building my backend development knowledge**
 
-- 🌱 I’m currently learning **SQL, Docker, Elasticsearch**
+- 🌱 I’m currently learning **PostgreSQL, Docker, Elasticsearch**
 
-- ⚡ Fun fact **I love trail running and brewing beer at home**
+- ⚡ Fun fact **I love trail running, grilling and brewing beer at home**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
