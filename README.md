@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **expanding and building my backend development knowledge**
 
-- 🌱 I’m currently learning **PostgreSQL and AWS**
+- 🌱 I’m currently learning **Cloud Computing, Containers and Microservices**
 
 - ⚡ Fun fact **I love trail running, grilling and brewing beer at home**
 
